@@ -1,10 +1,11 @@
-# think-validate
+# saithink-validate 修复thik-validate不兼容php8的问题
 
-基于PHP7.1+ 的Validate实现
+fork于think-validate,兼容php8.0+;
+用法和think-validate一模一样，包括引用的库;
 
 ## 安装
 ~~~
-composer require topthink/think-validate
+composer require saithink/think-validate
 ~~~
 
 ## 用法
